@@ -9,6 +9,7 @@
 
 If you want to share or modify this guide, please give credit to **Shon Gutman** and **Eyal Gal**. Thank you!
 
+Also, the theme of this Dark mode is `one dark vivid`
 ---
 
 ## Explanation
