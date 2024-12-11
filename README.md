@@ -47,4 +47,3 @@ After setting all the items, go to **Background Color** (under **Fonts and Color
 ---
 
 You’re all done! Enjoy your new dark mode in Emu8086.
-small note: the theme of this Dark mode is `one dark vivid`
